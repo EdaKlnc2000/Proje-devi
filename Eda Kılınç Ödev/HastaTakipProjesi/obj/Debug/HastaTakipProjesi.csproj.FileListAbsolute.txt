@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\bin\Debug\HastaTakipProjesi.exe.config
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\bin\Debug\HastaTakipProjesi.exe
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\bin\Debug\HastaTakipProjesi.pdb
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.Form1.resources
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.exe
+C:\Users\LENOVO\Desktop\Eda Kılınç Ödev\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.pdb
