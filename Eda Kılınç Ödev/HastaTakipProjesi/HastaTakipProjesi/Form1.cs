@@ -272,7 +272,7 @@ namespace HastaTakipProjesi
             // 
             // Form1
             // 
-            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.BackColor = System.Drawing.Color.DarkGray;
             this.ClientSize = new System.Drawing.Size(1325, 644);
             this.Name = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load_1);
